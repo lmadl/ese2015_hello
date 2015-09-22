@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;spring-mvc-archetype&apos; to &apos;ese2015_hello&apos;&#x0A;- Original element: &apos;spring-mvc-archetype&apos;&#x0A;- Renamed element: &apos;spring-mvc-archetype&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;spring-mvc-archetype&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=spring-mvc-archetype" name="ese2015_hello" references="true" stamp="1442918929858" version="1.0"/>
+</session>

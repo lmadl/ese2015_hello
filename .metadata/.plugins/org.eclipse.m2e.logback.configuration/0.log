@@ -1,0 +1,30 @@
+2015-09-22 12:45:52,595 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/spring-mvc-archetype/pom.xml
+2015-09-22 12:45:55,870 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.ntier:spring-mvc-archetype:1.0.2 @ /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/spring-mvc-archetype/pom.xml.
+2015-09-22 12:45:56,761 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-mvc-archetype/src/main/java
+2015-09-22 12:45:56,762 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-mvc-archetype/src/test/java
+2015-09-22 12:45:56,951 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2015-09-22 12:45:58,140 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:45:58,142 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/spring-mvc-archetype/src/main/resources
+2015-09-22 12:45:58,146 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:45:58,146 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/spring-mvc-archetype/src/test/resources
+2015-09-22 12:47:07,502 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.ntier:spring-mvc-archetype:1.0.2 @ /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/spring-mvc-archetype/pom.xml.
+2015-09-22 12:47:07,951 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:47:07,953 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/spring-mvc-archetype/src/main/resources
+2015-09-22 12:47:07,963 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:47:07,964 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/spring-mvc-archetype/src/test/resources
+2015-09-22 12:47:37,916 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2015-09-22 12:47:48,891 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/spring-mvc-archetype
+2015-09-22 12:47:48,891 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B jetty:run
+2015-09-22 12:48:50,546 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: co.ntier:spring-mvc-archetype:1.0.2 @ /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/ese2015_hello/pom.xml.
+2015-09-22 12:48:50,746 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:48:50,746 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/ese2015_hello/src/main/resources
+2015-09-22 12:48:50,751 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:48:50,752 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/ese2015_hello/src/test/resources
+2015-09-22 12:49:05,965 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:49:05,966 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/ese2015_hello/src/main/resources
+2015-09-22 12:49:05,970 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:49:05,971 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/ese2015_hello/src/test/resources
+2015-09-22 12:51:11,017 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:51:11,022 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/ese2015_hello/src/main/resources
+2015-09-22 12:51:11,024 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2015-09-22 12:51:11,025 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Volumes/Macintosh HD/Users/lucienmadl/GitHub/ESE/ese2015_hello/src/test/resources
